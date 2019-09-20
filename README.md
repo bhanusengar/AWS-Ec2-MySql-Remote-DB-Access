@@ -5,7 +5,11 @@ Access remote db (MySql) hosted over AWS EC2
 ## Getting Started
 
 ```
-1.Make an entry in the aws security group to allow remote access EC2 Instance=>Edit inbound rule=>Add new rule=>Choose MySQL/Aurora and source to Anywhere
+1.Make an entry in the aws security group to allow remote access 
+...1=>EC2 Instance
+...2=>Edit inbound rule
+...3=>Add new rule
+...4=>Choose MySQL/Aurora and source to Anywhere
 ```
 ```
 2.Login to your putty as root user
