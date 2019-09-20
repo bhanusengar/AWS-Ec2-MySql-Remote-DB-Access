@@ -1,4 +1,4 @@
-# AWS-Ec2-MySql-Remote-DB-Access
+# AWS-EC2-MySql-Remote-DB-Access
 Access remote db (MySql) hosted over AWS EC2
 
 
